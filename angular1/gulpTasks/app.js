@@ -6,14 +6,14 @@ gulp.task('app.html', function() {
 
 })
 
-gulp.task('app.css' function() {
+gulp.task('app.css', function() {
 
 })
 
-gulp.task('app.js' function() {
+gulp.task('app.js', function() {
 
 })
 
-gulp.task('app.assets' function() {
+gulp.task('app.assets', function() {
 
 })
